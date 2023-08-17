@@ -1,0 +1,10 @@
+#inlcude<stdio.h>
+int main()
+{
+    char f[20], l[20];
+    printf("Enter Your First Name: ");
+    scanf("%d", f);
+    printf("Enter Your Last Name: ");
+    scanf("%d", l);
+    printf("Your Full Name is: %d %d", f, l);
+}
